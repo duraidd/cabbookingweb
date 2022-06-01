@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cabbookingweb/static/css/main.674e1bd5.css",
+    "main.js": "/cabbookingweb/static/js/main.804207ed.js",
+    "static/js/787.80bd7e34.chunk.js": "/cabbookingweb/static/js/787.80bd7e34.chunk.js",
+    "static/media/bgImage.svg": "/cabbookingweb/static/media/bgImage.0d466d13e19f4c7ade3bff7ebb9f5e54.svg",
+    "static/media/head.svg": "/cabbookingweb/static/media/head.ffd965256022e83d1eb279c6803cc3d1.svg",
+    "static/media/bk.png": "/cabbookingweb/static/media/bk.45c43a8be4a105ad74a0.png",
+    "index.html": "/cabbookingweb/index.html",
+    "main.674e1bd5.css.map": "/cabbookingweb/static/css/main.674e1bd5.css.map",
+    "main.804207ed.js.map": "/cabbookingweb/static/js/main.804207ed.js.map",
+    "787.80bd7e34.chunk.js.map": "/cabbookingweb/static/js/787.80bd7e34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674e1bd5.css",
+    "static/js/main.804207ed.js"
+  ]
+}
