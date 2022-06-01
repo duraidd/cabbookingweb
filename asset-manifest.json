@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cabbookingweb/static/css/main.674e1bd5.css",
-    "main.js": "/cabbookingweb/static/js/main.167831e5.js",
-    "static/js/787.80bd7e34.chunk.js": "/cabbookingweb/static/js/787.80bd7e34.chunk.js",
+    "main.js": "/cabbookingweb/static/js/main.419b85b2.js",
+    "static/js/787.2ec2cfd6.chunk.js": "/cabbookingweb/static/js/787.2ec2cfd6.chunk.js",
     "static/media/_gallery-8.png": "/cabbookingweb/static/media/_gallery-8.eb27f131f168d0a887c0.png",
     "static/media/_gallery-5.png": "/cabbookingweb/static/media/_gallery-5.8e1ded99717c0c5e3201.png",
     "static/media/_gallery-6.png": "/cabbookingweb/static/media/_gallery-6.d71f8460f1b7c117235c.png",
@@ -17,11 +17,11 @@
     "static/media/bk.png": "/cabbookingweb/static/media/bk.45c43a8be4a105ad74a0.png",
     "index.html": "/cabbookingweb/index.html",
     "main.674e1bd5.css.map": "/cabbookingweb/static/css/main.674e1bd5.css.map",
-    "main.167831e5.js.map": "/cabbookingweb/static/js/main.167831e5.js.map",
-    "787.80bd7e34.chunk.js.map": "/cabbookingweb/static/js/787.80bd7e34.chunk.js.map"
+    "main.419b85b2.js.map": "/cabbookingweb/static/js/main.419b85b2.js.map",
+    "787.2ec2cfd6.chunk.js.map": "/cabbookingweb/static/js/787.2ec2cfd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.674e1bd5.css",
-    "static/js/main.167831e5.js"
+    "static/js/main.419b85b2.js"
   ]
 }
